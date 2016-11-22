@@ -43,7 +43,7 @@ moderately-unstable development branch.
 
 ## Documentation
 
-See the [online manual](http://www.fortyninemaps.com/kartadocs/introduction.html),
+See the [online manual](https://karta.fortyninemaps.com/kartadocs/introduction.html),
 the [tutorial](http://www.fortyninemaps.com/kartadocs/_static/tutorial.html), or read the
 [API documentation](http://www.fortyninemaps.com/kartadocs/reference.html).
 
